@@ -67,7 +67,7 @@ CREATE TABLE `product` (
 --
 
 INSERT INTO `product` (`id`, `name`, `stock`, `price`, `created`) VALUES
-(1, 'yudhistira', 2, 10000, '2022-05-30');
+(1, 'ovit', 5, 10000, '2022-05-30');
 
 --
 -- Indexes for dumped tables
